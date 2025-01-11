@@ -26,3 +26,13 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrishtiSinha2003&layout=compact)
 
 
+## ✍️ Random Dev Quote
+> "Talk is cheap. Show me the code."
+>
+> — Linus Torvalds
+
+
+## 💰 You can help me by Donating
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-yellow?style=flat-square&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/SrishtiSinha2003)
+
