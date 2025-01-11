@@ -6,6 +6,9 @@
 
 ### 🏆 GitHub Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=SrishtiSinha2003)](https://github.com/SrishtiSinha2003/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=SrishtiSinha2003)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SrishtiSinha2003)
+
 
 ### ⚡ Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin)](https://www.linkedin.com/in/srishti-sinha-06aug082003//)
