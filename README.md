@@ -26,6 +26,16 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrishtiSinha2003&layout=compact)
 
 
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SrishtiSinha2003&show_icons=true&theme=radical)
+
+## 🔥 Streak Stats:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SrishtiSinha2003&theme=radical)](https://git.io/streak-stats)
+
+## 💻 Most Used Languages:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SrishtiSinha2003&layout=compact&theme=radical)
+
+
 ## ✍️ Random Dev Quote
 > "Talk is cheap. Show me the code."
 >
