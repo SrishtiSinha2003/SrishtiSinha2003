@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on **WanderLust Website**  
 📫 How to reach me: [srishtiisinha2003@gmail.com](mailto:srishtiisinha2003@gmail.com)  
-⚡ Fun fact: "Did you know? The term 'bug' in programming originated in 1947 when a moth caused a malfunction in an early computer! 🐛 Now, we squash digital bugs, one commit at a time. 💻✨"
+⚡ Fun fact: "Did you know? The term 'bug' in programming originated in 1947 when a moth caused a malfunction in   an early computer! 🐛 Now, we squash digital bugs, one commit at a time. 💻✨"
 
 ### 🏆 GitHub Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=SrishtiSinha2003)](https://github.com/SrishtiSinha2003/github-profile-trophy)
