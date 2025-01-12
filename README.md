@@ -33,7 +33,7 @@
 
 
 ### 📊 GitHub Stats:
-![Srishti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SrishtiSinha2003&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SrishtiSinha2003)](https://git.io/streak-stats)
 
 ### 🔝 Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrishtiSinha2003&layout=compact)
