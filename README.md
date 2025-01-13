@@ -33,13 +33,14 @@
 
 
 ### 📊 GitHub Stats:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SrishtiSinha2003)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SrishtiSinha2003&show_icons=true&theme=radical)
 
 ### 🔝 Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrishtiSinha2003&layout=compact)
 
 ## 🔥 Streak Stats:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SrishtiSinha2003)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SrishtiSInha2003&theme=radical)
+
 
 
 ## ✍️ Random Dev Quote
