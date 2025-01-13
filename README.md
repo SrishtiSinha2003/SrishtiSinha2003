@@ -39,7 +39,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrishtiSinha2003&layout=compact)
 
 ## 🔥 Streak Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SrishtiSinha2003&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SrishtiSinha2003)](https://git.io/streak-stats)
 
 
 ## ✍️ Random Dev Quote
