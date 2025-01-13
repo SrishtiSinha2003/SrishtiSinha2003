@@ -7,8 +7,10 @@
 ## Profile Views
 ![Profile views](https://komarev.com/ghpvc/?username=SrishtiSinha2003&color=brightgreen)
 
+
 ### 🏆 GitHub Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=SrishtiSinha2003)](https://github.com/SrishtiSinha2003/github-profile-trophy)
+
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/srishti-sinha-06aug082003/)
@@ -39,8 +41,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrishtiSinha2003&layout=compact)
 
 ## 🔥 Streak Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SrishtiSInha2003&theme=radical)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SrishitSinha2003)
 
 
 ## ✍️ Random Dev Quote
