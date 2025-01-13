@@ -42,6 +42,10 @@
 
 ## 🔥 Streak Stats:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SrishitSinha2003)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME)
+## 🔥 GitHub Streak:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SrishtiSinha2003&theme=radical)
+
 
 
 ## ✍️ Random Dev Quote
