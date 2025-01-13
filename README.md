@@ -40,12 +40,6 @@
 ### 🔝 Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrishtiSinha2003&layout=compact)
 
-## 🔥 Streak Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SrishitSinha2003)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME)
-## 🔥 GitHub Streak:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SrishtiSinha2003&theme=radical)
-
 
 
 ## ✍️ Random Dev Quote
