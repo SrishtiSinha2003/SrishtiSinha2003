@@ -18,6 +18,7 @@
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/msdianvvtn7/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/msdianvarsha)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=SrishtiSinha2003&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
 ### ⚙️ Languages and Tools:
