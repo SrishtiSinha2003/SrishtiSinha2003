@@ -19,7 +19,8 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/msdianvarsha)
 
 ## Github Streak
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrishtiSinha2003)](https://github.com/SrishtiSinha2003/github-readme-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?userSrishtiSinha2003)
+
 
 
 
