@@ -19,7 +19,7 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/msdianvarsha)
 
 ## Github Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SrishtiSinha2003)](https://git.io/streak-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srishtiisinha2003&show_icons=true&locale=en&layout=compact" alt="srishtiisinha2003" /></p>
 
 
 ### ⚙️ Languages and Tools:
