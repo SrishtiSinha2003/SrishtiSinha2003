@@ -18,10 +18,11 @@
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/msdianvvtn7/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/msdianvarsha)
 
-## Github Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?userSrishtiSinha2003)
+# GitHub Stats
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SrishtiSinha2003)
 
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=SrishtiSinha2003&show_icons=true&include_all_commits=true&count_private=true)
 
 
 ### ⚙️ Languages and Tools:
