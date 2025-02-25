@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🔭 I’m currently working on **ML** **MODELS**
-📫 How to reach me:[srishtiisinha2003@gmail.com](mailto:srishtiisinha2003@gmail.com)  
+📫 How to reach me: [srishtiisinha2003@gmail.com](mailto:srishtiisinha2003@gmail.com)  
 ⚡ Fun fact: "Did you know? The term 'bug' in programming originated in 1947 when a moth caused a malfunction in   an early computer! 🐛 Now, we squash digital bugs, one commit at a time. 💻✨"
 
 ## Profile Views
