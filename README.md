@@ -45,7 +45,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrishtiSinha2003&layout=compact)
 
 
-
 ## ✍️ Random Dev Quote
 > "Talk is cheap. Show me the code."
 >
