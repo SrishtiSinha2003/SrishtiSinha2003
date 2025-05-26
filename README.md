@@ -1,5 +1,23 @@
 ### Hi there 👋
 
+I’m **Srishti Sinha**, a passionate and curious 3rd-year B.Tech Computer Science student with a love for building intelligent, scalable, and user-centric solutions.
+
+🔭 I’m currently working on **Machine Learning Models** and exploring the exciting realms of **Deep Learning**, **Neural Networks**, **DevOps**, **Cloud Computing**, and **AI**.
+
+💡 Constantly learning and experimenting with:
+- 🔍 Data-driven decision making with ML & AI
+- 🌐 Full-Stack Web Development using JavaScript, React.js, Spring Boot
+- ☁️ Cloud fundamentals & deployment strategies
+- 🐳 Docker, CI/CD pipelines, and development best practices
+
+📫 How to reach me: [srishtiisinha2003@gmail.com](mailto:srishtiisinha2003@gmail.com)
+
+⚡ **Fun fact:**  
+*"Did you know? The term 'bug' in programming originated in 1947 when a moth caused a malfunction in an early computer! 🐛 Now, we squash digital bugs, one commit at a time. 💻✨"*
+
+Let's connect, code, and create something amazing together! 🚀  
+
+
 🔭 I’m currently working on **ML** **MODELS**
 <br> 
 📫 How to reach me: [srishtiisinha2003@gmail.com](mailto:srishtiisinha2003@gmail.com)  
@@ -52,6 +70,12 @@
 
 
 ## 💰 You can help me by Donating
+
+
+🤝 Always open to collaborations on:
+- Open-source and academic projects  
+- Internships with innovative tech teams  
+- Anything related to ML, AI, full-stack development, or problem-solving with code
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-yellow?style=flat-square&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/SrishtiSinha2003)
 
