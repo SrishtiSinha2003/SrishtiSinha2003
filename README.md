@@ -21,10 +21,6 @@ Let's connect, code, and create something amazing together! 🚀
 ## Profile Views 
 ![Profile views](https://komarev.com/ghpvc/?username=SrishtiSinha2003&color=brightgreen)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Srishti+👋;ML+%7C+AI+%7C+Full+Stack+Dev+Enthusiast;Always+Learning+%F0%9F%93%9A+and+Building+%F0%9F%9A%80" alt="Typing SVG" />
-
-
-
 ### 🏆 GitHub Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=SrishtiSinha2003)](https://github.com/SrishtiSinha2003/github-profile-trophy)
 
