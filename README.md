@@ -22,6 +22,9 @@ Let's connect, code, and create something amazing together! 🚀
 ![Profile views](https://komarev.com/ghpvc/?username=SrishtiSinha2003&color=brightgreen)
 
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=srishtiisinha&theme=tokyonight&hide_border=true)
+
+
 ### 🏆 GitHub Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=SrishtiSinha2003)](https://github.com/SrishtiSinha2003/github-profile-trophy)
 
