@@ -18,11 +18,6 @@ I’m **Srishti Sinha**, a passionate and curious 3rd-year B.Tech Computer Scien
 Let's connect, code, and create something amazing together! 🚀  
 
 
-🔭 I’m currently working on **ML** **MODELS**
-<br> 
-📫 How to reach me: [srishtiisinha2003@gmail.com](mailto:srishtiisinha2003@gmail.com)  
-⚡ Fun fact: "Did you know? The term 'bug' in programming originated in 1947 when a moth caused a malfunction in   an early computer! 🐛 Now, we squash digital bugs, one commit at a time. 💻✨"
-
 ## Profile Views 
 ![Profile views](https://komarev.com/ghpvc/?username=SrishtiSinha2003&color=brightgreen)
 
