@@ -66,11 +66,11 @@ Let's connect, code, and create something amazing together! 🚀
 
 ## 💰 You can help me by Donating
 
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-yellow?style=flat-square&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/SrishtiSinha2003)
+
 
 🤝 Always open to collaborations on:
 - Open-source and academic projects  
 - Internships with innovative tech teams  
 - Anything related to ML, AI, full-stack development, or problem-solving with code
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-yellow?style=flat-square&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/SrishtiSinha2003)
 
