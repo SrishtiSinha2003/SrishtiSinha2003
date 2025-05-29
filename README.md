@@ -2,7 +2,7 @@
 
 I’m **Srishti Sinha**, a passionate and curious 3rd-year B.Tech Computer Science student with a love for building intelligent, scalable, and user-centric solutions.
 
-🔭 I’m currently working on **Machine Learning Models** and exploring the exciting realms of **Deep Learning**, **Neural Networks**, **DevOps**, **Cloud Computing**, and **AI**.
+🔭 I’m currently working on **Machine Learning Models** and exploring the exciting realms of **AI**, **Deep Learning**, **Neural Networks**, and **DevOps**.
 
 💡 Constantly learning and experimenting with:
 - 🔍 Data-driven decision making with ML & AI
@@ -52,7 +52,11 @@ Let's connect, code, and create something amazing together! 🚀
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-%23013243.svg?style=for-the-badge&logo=seaborn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
