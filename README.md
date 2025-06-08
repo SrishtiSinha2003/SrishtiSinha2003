@@ -7,7 +7,6 @@ I’m **Srishti Sinha**, a passionate and curious 3rd-year B.Tech Computer Scien
 💡 Constantly learning and experimenting with:
 - 🔍 Data-driven decision making with ML & AI
 - 🌐 Full-Stack Web Development using JavaScript, React.js, Spring Boot
-- ☁️ Cloud fundamentals & deployment strategies
 - 🐳 Docker, CI/CD pipelines, and development best practices
 
 📫 How to reach me: [srishtiisinha2003@gmail.com](mailto:srishtiisinha2003@gmail.com)
