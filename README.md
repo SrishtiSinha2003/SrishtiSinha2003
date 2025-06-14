@@ -60,7 +60,6 @@ Let's connect, code, and create something amazing together! 🚀
 ![Seaborn](https://img.shields.io/badge/Seaborn-%23013243.svg?style=for-the-badge&logo=seaborn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-(https://github-readme-streak-stats.herokuapp.com/?user=SrishtiSinha2003&theme=radical)
 
 ### 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SrishtiSinha2003&show_icons=true&theme=radical)
