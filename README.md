@@ -2,7 +2,7 @@
 
 I’m **Srishti Sinha**, a passionate and curious 3rd-year B.Tech Computer Science student with a love for building intelligent, scalable, and user-centric solutions.
 
-🔭 I’m currently working on **Machine Learning Models** and exploring the exciting realms of **AI**, **Deep Learning**, **Neural Networks**, and **DevOps**.
+🔭 I’m currently working on **Machine Learning Models**, **System Design** and exploring the exciting realms of **AI**, **Deep Learning**, **Neural Networks**, and **DevOps**.
 
 💡 Constantly learning and experimenting with:
 - 🔍 Data-driven decision making with ML & AI
