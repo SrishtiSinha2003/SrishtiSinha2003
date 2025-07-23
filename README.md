@@ -5,6 +5,7 @@ I’m **Srishti Sinha**, a passionate and curious 3rd-year B.Tech Computer Scien
 🔭 I’m currently working on **Machine Learning Models**, **System Design** and exploring the exciting realms of **AI**, **Deep Learning**, **Neural Networks**, and **DevOps**.
 
 💡 Constantly learning and experimenting with:
+- ⚡System Design & LLD
 - 🔍 Data-driven decision making with ML & AI
 - 🌐 Full-Stack Web Development using JavaScript, React.js, Spring Boot
 - 🐳 Docker, CI/CD pipelines, and development best practices
