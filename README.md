@@ -63,7 +63,7 @@ Let's connect, code, and create something amazing together! 🚀
 
 
 ### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SrishtiSinha2003&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SrishtiSinha2003&cache_seconds=0)
 
 ### 🔝 Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrishtiSinha2003&layout=compact)
