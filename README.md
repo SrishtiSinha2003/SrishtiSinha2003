@@ -22,7 +22,7 @@ Let's connect, code, and create something amazing together! 🚀
 ![Profile views](https://komarev.com/ghpvc/?username=SrishtiSinha2003&color=brightgreen)
 
 ### 🏆 GitHub Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SrishtiSinha2003)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
