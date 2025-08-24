@@ -24,6 +24,9 @@ Let's connect, code, and create something amazing together! 🚀
 ### 🏆 GitHub Trophies:
 ![trophy](https://github-trophies.vercel.app/?username=SrishtiSinha2003&theme=onedark&no-frame=true&margin-w=15&exclude=Organizations,AncientUser,AchieveSSSRank)
 
+### Current Streak
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SrishtiSinha2003&" /></p>
+
 
 
 ## Connect with me:
